@@ -1,2 +1,3 @@
 # Cos-101-Assignment
-Main.py
+Main.py 
+print("Hello World") 
